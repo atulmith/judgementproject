@@ -1,0 +1,1 @@
+export { watchGetjudgementdetail } from './getjudgementdetail';
